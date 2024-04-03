@@ -1,0 +1,3 @@
+#we are going to learn python comments...
+print("learn coding...")  #print("") is used to display on the console
+print("prithvi")
